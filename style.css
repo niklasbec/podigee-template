@@ -487,3 +487,7 @@
         right: 0;
    }
 }
+
+.backward-button, .forward-button {
+    color:#51035A;
+}
