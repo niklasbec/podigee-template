@@ -488,6 +488,10 @@
    }
 }
 
-.backward-button, .forward-button {
+.podcast-player .backward-button, .podcast-player .forward-button {
     color:#51035A;
+}
+
+.podcast-player .progress-bar-time-played {
+    color: #AAAAAA;
 }
