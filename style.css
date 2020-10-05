@@ -488,7 +488,7 @@
    }
 }
 
-.podcast-player .backward-button, .podcast-player .forward-button {
+#back-button, #forward-button {
     color:#51035A;
 }
 
